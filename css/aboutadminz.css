@@ -14,4 +14,11 @@ body {
     margin-right: auto;
     max-width: 3840px;
     max-height: 2160px;
+    padding-top: 8px;
+    padding-bottom: 24px;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+html {
+    background: radial-gradient(darkblue 50%, gold 50%);
 }
